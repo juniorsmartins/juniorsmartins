@@ -1,6 +1,6 @@
 ### Seja Bem-Vindo! 👋
 <div>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juniorsmartins)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 <div align="center">
