@@ -7,7 +7,7 @@
 </div>
 
 <div align=center>
-  <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Thiagoand&theme=dracula&bg_color=282a36&hide_border=true" width="90%"/>
+  <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=juniorsmartins&theme=dracula&bg_color=282a36&hide_border=true" width="90%"/>
 </div>  
 
 <div align="center"> 
