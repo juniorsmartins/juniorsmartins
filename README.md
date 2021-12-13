@@ -1,11 +1,11 @@
 ### Seja Bem-Vindo! 👋
 
 <div align="center">
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align=center>
-  <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=juniorsmartins&theme=dracula&bg_color=282a36&hide_border=true" width="90%"/>
+  <img width="90%" alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=juniorsmartins&theme=dracula&bg_color=282a36&hide_border=true"/>
 </div>  
 
 <div align="center"> 
