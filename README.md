@@ -1,4 +1,7 @@
 ### Seja Bem-Vindo! 👋
+<div>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juniorsmartins)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div align="center">
   <img width="50%" heigth="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&layout=compact&langs_count=7&theme=dracula"/>
