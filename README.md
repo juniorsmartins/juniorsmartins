@@ -11,7 +11,7 @@
 </div>
   
 <div align=center>
-   <a href="https://github.com/juniorsmartins" >
+   <a href="" >
       <img alt="GitHub Wakatime" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=juniorsmartins&custom_title=Wakatime+Status+for+personal+projects&theme=dracula&"/>
     </a>
     <a href="https://github.com/juniorsmartins">
