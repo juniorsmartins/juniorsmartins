@@ -12,6 +12,6 @@
   
 <div align=center>
     <a href="">
-      <img alt="GitHub contrib" align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=ThiagoAnd&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs"/>
+      <img alt="GitHub contrib" align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=juniorsmartins&theme=dracula&custom_title=Commits+from+2021&count_private=true&hide=contribs,prs"/>
     </a>
 </div>  
