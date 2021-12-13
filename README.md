@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo! 👋
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="80%" heigth="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align=center>
