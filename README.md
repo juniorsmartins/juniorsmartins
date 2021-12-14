@@ -5,8 +5,8 @@
 </div>  
 
 <div align="center" >
-  <img height="215" src="https://github-readme-stats.vercel.app/api?username=juniorsmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="215" heigth="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&layout=compact&langs_count=7&theme=dracula"/>
+  <img widht="350px" heigth="100px" src="https://github-readme-stats.vercel.app/api?username=juniorsmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img widht="350px" heigth="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center"> 
