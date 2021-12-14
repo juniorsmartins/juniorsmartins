@@ -5,7 +5,7 @@
   </div>  
 
   <div>
-    <img align="left" width="440px" height="200px" src="https://github-readme-stats.vercel.app/api?username=juniorsmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="left" width="450px" height="200px" src="https://github-readme-stats.vercel.app/api?username=juniorsmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img align="right" width="350px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 
