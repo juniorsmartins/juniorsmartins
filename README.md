@@ -4,8 +4,9 @@
   <img width="80%" alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=juniorsmartins&theme=dracula&bg_color=282a36&hide_border=true"/>
 </div>  
 
-<div align="center">
-  <img width="50%" heigth="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center" >
+  <img height="215" src="https://github-readme-stats.vercel.app/api?username=juniorsmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="215" heigth="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center"> 
