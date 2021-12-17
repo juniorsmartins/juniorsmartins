@@ -17,7 +17,7 @@
 </div>
 
 <div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?juniorsmartins=anuraghazra&langs_count=8">
-    <img src="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&langs_count=8">
+    <img src="https://github.com/juniorsmartins/github-readme-stats">
   </a>
 </div>
