@@ -10,6 +10,14 @@
   </div>
 
   <div align="center"> 
-    <a href="https://www.linkedin.com/in/juniorsmartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/juniorsmartins/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
   </div>
+</div>
+
+<div>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?juniorsmartins=anuraghazra&langs_count=8">
+    <img src="https://github.com/anuraghazra/github-readme-stats">
+  </a>
 </div>
