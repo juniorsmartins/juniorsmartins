@@ -10,11 +10,9 @@
   </div>
 
   <div align="center"> 
-    <a href="https://www.linkedin.com/in/juniorsmartins/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&langs_count=8)](https://github.com/juniorsmartins/github-readme-stats)
   </div>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsmartins&langs_count=8)](https://github.com/juniorsmartins/github-readme-stats)
+
 
