@@ -39,7 +39,7 @@
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
- </br> Astah-UML / BrModelo-DER
+ </br> Astah-UML / BrModelo-DER / Netbeans / Spring Tool Suite / Robo 3T / DBeaver
  
  <img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=juniorsmartins&repo=juniorsmartins&countColorcountColor&countColor=0e75b6"/>
 </div>
