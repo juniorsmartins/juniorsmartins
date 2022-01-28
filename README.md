@@ -14,7 +14,7 @@
  ## FRAMEWORKS
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
- </br>Spring Web MVC / Spring Data JPA / Spring Data MongoDB / Spring Validation Beans / Spring Secutiry / Jakarta / Enterprise Java Beans
+ </br>Spring Web MVC / Spring Data JPA / Spring Data MongoDB / Spring Validation Beans / Spring Secutiry / Jakarta / Enterprise Java Beans / Android
  
  ## FRONT-END
  <img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
