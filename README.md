@@ -18,9 +18,9 @@ Foco na construção de aplicações web modernas, escaláveis e funcionais, uti
 
 **Back-end:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaEE](https://img.shields.io/badge/JavaEE-%2300739C.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JSF](https://img.shields.io/badge/JSF-%23E66900.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 **Banco de Dados & Migração:**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
