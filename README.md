@@ -32,6 +32,10 @@ Foco na construção de aplicações web modernas, escaláveis e funcionais, uti
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+**Automação:**
+![Make](https://img.shields.io/badge/Make-6F2DBD?style=for-the-badge&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+
 ---
 
 ### 📊 Estatísticas do GitHub
