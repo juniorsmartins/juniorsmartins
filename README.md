@@ -15,11 +15,13 @@ Foco na construção de aplicações web modernas, escaláveis e funcionais, uti
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Back-end & Banco de Dados:**
+**Back-end:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaEE](https://img.shields.io/badge/JavaEE-%2300739C.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JSF](https://img.shields.io/badge/JSF-%23E66900.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+**Banco de Dados & Migração:**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
