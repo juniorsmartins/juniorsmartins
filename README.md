@@ -1,10 +1,10 @@
-# Olá, eu sou o Junior Martins! 👋
+# Olá, me chamo Junior Martins! 👋
 
-### 🚀 Desenvolvedor Full Stack | Jornalista | Fotógrafo
+### Desenvolvedor Full Stack | Jornalista | Fotógrafo
 
 Sou desenvolvedor Full Stack em transição/evolução contínua na área de tecnologia, combinando a precisão da engenharia de software com a bagagem analítica e comunicativa do Jornalismo e a visão estética da Fotografia. 
 
-Foco na construção de aplicações web modernas, escaláveis e funcionais, utilizando principalmente o ecossistema **JavaScript/TypeScript** e **Java**.
+Foco na construção de aplicações web modernas, escaláveis e funcionais, utilizando principalmente o ecossistema **JavaScript** e **Java**.
 
 ---
 
