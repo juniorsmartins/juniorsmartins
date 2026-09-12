@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack | Jornalista | Fotógrafo
 
-Sou desenvolvedor Full Stack em transição/evolução contínua na área de tecnologia, combinando a precisão da engenharia de software com a bagagem analítica e comunicativa do Jornalismo e a visão estética da Fotografia. 
+Sou desenvolvedor Full Stack em evolução contínua na área de tecnologia, combinando a precisão da engenharia de software com a bagagem analítica e comunicativa do Jornalismo e a visão estética da Fotografia. 
 
 Foco na construção de aplicações web modernas, escaláveis e funcionais, utilizando principalmente o ecossistema **JavaScript** e **Java**.
 
