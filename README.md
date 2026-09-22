@@ -20,6 +20,7 @@ Desenvolvedor Full Stack em contínua evolução na área de tecnologia. Combino
 ![JavaEE](https://img.shields.io/badge/JavaEE-%2300739C.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JSF](https://img.shields.io/badge/JSF-%23E66900.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 **Banco de Dados & Migração:**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
