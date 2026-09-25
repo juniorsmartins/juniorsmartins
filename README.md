@@ -37,6 +37,7 @@ Desenvolvedor Full Stack em contínua evolução na área de tecnologia. Combino
 **Testes & Qualidade:**
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-C5D200?style=for-the-badge&logo=mockito&logoColor=black)
+![REST-Assured](https://img.shields.io/badge/REST--Assured-C21325?style=for-the-badge&logo=rest-assured&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 
