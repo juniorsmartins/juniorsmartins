@@ -78,14 +78,6 @@ Desenvolvedor Full Stack em contínua evolução na área de tecnologia. Combino
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=juniorsmartins&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" height="175"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juniorsmartins&layout=compact&theme=radical" alt="Linguagens mais usadas" height="175"/>
-</div>
-
----
 
 ### 📬 Onde me encontrar
 
