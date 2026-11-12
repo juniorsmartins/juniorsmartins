@@ -69,7 +69,6 @@ Desenvolvedor Full Stack em contínua evolução na área de tecnologia. Combino
 
 **Automação & Low-Code:**
 ![Make](https://img.shields.io/badge/Make-6F2DBD?style=for-the-badge&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 
 **Inteligência Artificial & Engenharia de Prompts:**
