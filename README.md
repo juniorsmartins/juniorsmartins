@@ -67,7 +67,7 @@ Desenvolvedor Full Stack em contínua evolução na área de tecnologia. Combino
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-23191C?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**Automação & Low-Code:**
+**Automação & Low-Code:**  
 ![Make](https://img.shields.io/badge/Make-6F2DBD?style=for-the-badge&logo=make&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 
