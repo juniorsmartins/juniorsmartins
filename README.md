@@ -8,7 +8,7 @@ Desenvolvedor Full Stack em contínua evolução na área de tecnologia. Combino
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Front-end:**
+**Front-end:**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -16,7 +16,7 @@ Desenvolvedor Full Stack em contínua evolução na área de tecnologia. Combino
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Back-end:**
+**Back-end:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaEE](https://img.shields.io/badge/JavaEE-%2300739C.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -25,7 +25,7 @@ Desenvolvedor Full Stack em contínua evolução na área de tecnologia. Combino
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-**Banco de Dados & Migração:**
+**Banco de Dados & Migração:**  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -36,7 +36,7 @@ Desenvolvedor Full Stack em contínua evolução na área de tecnologia. Combino
 ![Liquibase](https://img.shields.io/badge/Liquibase-%23204969.svg?style=for-the-badge&logo=liquibase&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-%23CC0200.svg?style=for-the-badge&logo=flyway&logoColor=white)
 
-**Testes & Qualidade:**
+**Testes & Qualidade:**  
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-C5D200?style=for-the-badge&logo=mockito&logoColor=black)
 ![REST-Assured](https://img.shields.io/badge/REST--Assured-C21325?style=for-the-badge&logo=rest-assured&logoColor=white)
@@ -71,7 +71,7 @@ Desenvolvedor Full Stack em contínua evolução na área de tecnologia. Combino
 ![Make](https://img.shields.io/badge/Make-6F2DBD?style=for-the-badge&logo=make&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 
-**Inteligência Artificial & Engenharia de Prompts:**
+**Inteligência Artificial & Engenharia de Prompts:**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
